@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlicjaCrave
 - 👀 I’m interested in ... coding! games! graphic design! strange folk music! mythologie! psychologie! and other things...
-- 🌱 I’m currently learning ... symfony, spanish
+- 🌱 I’m currently learning ... react, spanish
 - 📫 How to reach me ... email :) aliciacrave66@gmail.com
 
 <!---
